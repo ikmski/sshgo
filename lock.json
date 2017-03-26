@@ -1,0 +1,13 @@
+{
+    "memo": "70c6c3b491963797f628f1512de7b835435d36623619adb0859d708ec3b90e64",
+    "projects": [
+        {
+            "name": "golang.org/x/crypto",
+            "branch": "master",
+            "revision": "453249f01cfeb54c3d549ddb75ff152ca243f9d8",
+            "packages": [
+                "ssh"
+            ]
+        }
+    ]
+}
